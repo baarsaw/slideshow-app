@@ -36,15 +36,4 @@ nav ul li button:hover, nav ul li a:hover {
   background-color: #555;
 }
 
-/* /* Slideshow Styles */
-.slideshow-container {
-  max-width: 800px;
-  margin: 20px auto;
-  text-align: center;
-}
 
-.slide-image {
-  max-width: 100%;
-  height: auto;
-  display: block;
-} */

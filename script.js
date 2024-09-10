@@ -5,9 +5,7 @@ let slideshowInterval;
 // Array of images
 const images = [
   'slideshow_photos/photo1.jpg',
-  'slideshow_photos/photo2.jpg',
-  'slideshow_photos/photo3.jpg',
-  'slideshow_photos/photo4.jpg'
+  'slideshow_photos/photo2.jpg'
 ];
 
 // DOM elements

@@ -19,7 +19,7 @@ function startSlideshow() {
     slideshowInterval = setInterval(() => {
       currentSlide = (currentSlide + 1) % images.length;
       slideshowImage.src = images[currentSlide];
-    }, 2000); // Change slide every 2 seconds
+    }, 4000); // Change slide every 2 seconds
   }
 }
 
